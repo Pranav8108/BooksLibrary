@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\.net\Bulkyy\Bulkyy.Utility\bin\Debug\net7.0\Bulkyy.Utility.deps.json
+C:\Users\user\Desktop\.net\Bulkyy\Bulkyy.Utility\bin\Debug\net7.0\Bulkyy.Utility.dll
+C:\Users\user\Desktop\.net\Bulkyy\Bulkyy.Utility\bin\Debug\net7.0\Bulkyy.Utility.pdb
+C:\Users\user\Desktop\.net\Bulkyy\Bulkyy.Utility\obj\Debug\net7.0\Bulkyy.Utility.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\.net\Bulkyy\Bulkyy.Utility\obj\Debug\net7.0\Bulkyy.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\.net\Bulkyy\Bulkyy.Utility\obj\Debug\net7.0\Bulkyy.Utility.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\.net\Bulkyy\Bulkyy.Utility\obj\Debug\net7.0\Bulkyy.Utility.AssemblyInfo.cs
+C:\Users\user\Desktop\.net\Bulkyy\Bulkyy.Utility\obj\Debug\net7.0\Bulkyy.Utility.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.net\Bulkyy\Bulkyy.Utility\obj\Debug\net7.0\Bulkyy.Utility.dll
+C:\Users\user\Desktop\.net\Bulkyy\Bulkyy.Utility\obj\Debug\net7.0\refint\Bulkyy.Utility.dll
+C:\Users\user\Desktop\.net\Bulkyy\Bulkyy.Utility\obj\Debug\net7.0\Bulkyy.Utility.pdb
+C:\Users\user\Desktop\.net\Bulkyy\Bulkyy.Utility\obj\Debug\net7.0\ref\Bulkyy.Utility.dll
